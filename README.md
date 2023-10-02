@@ -73,3 +73,7 @@ python convert.py
 python varify_coreml.py -i imgs/ansel_adams3.jpg
 ```
 
+### How to use in swift
+
+- https://www.onswiftwings.com/posts/image-colorization-coreml/
+- https://github.com/iamchiwon/LetMeTryCoreML
