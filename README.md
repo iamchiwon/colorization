@@ -58,3 +58,18 @@ If you find these models useful for your resesarch, please cite with these bibte
 
 ### Misc ###
 Contact Richard Zhang at rich.zhang at eecs.berkeley.edu for any questions or comments.
+
+## For CoreML 
+
+### Convert to mlpackage
+
+```
+python convert.py
+```
+
+### Varify mlpackage
+
+```
+python varify_coreml.py -i imgs/ansel_adams3.jpg
+```
+
